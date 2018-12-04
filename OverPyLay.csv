@@ -1,0 +1,5 @@
+heroes,Ana,Mercy,Pharah,Reinhardt,Zarya,Tracer
+ultimate,0,0,60,80,75,100
+koTimer,0,0,0,0,0,0
+update,False,False,False,False,False,False
+abilityStatus,100,100,,,,
